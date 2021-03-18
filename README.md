@@ -1,2 +1,3 @@
-# youtube-player-page
-A basic youtube player page clone
+# Youtube player page clone
+
+Simplistic implementation of the youtube player page.
